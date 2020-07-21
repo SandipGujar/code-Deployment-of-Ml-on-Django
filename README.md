@@ -1,2 +1,2 @@
-# code-Deployment-of-Ml-on-Django
-This file is deployment of an Machinelearning code using Gunicorn API
+# code-Deployment-of-Machine Learning-on-Django
+This file is deployment of an Machine learning code using Gunicorn API
